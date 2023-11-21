@@ -1,30 +1,27 @@
 # quotes
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<p>
+## Project Technologies:
+- Dart language
+- Flutter framework with MVC and Provider architecture
 
 
-
-https://github.com/kaushikHadiya1234/quotes/assets/119835333/6040602d-91cc-4e54-a29a-1d93fd21112c
+## Project Description:
+"Quotes" is a feature-rich mobile application developed using Flutter, incorporating concepts
+such as SQLite Database, Animation, API Calling, and Local JSON Bank. The app provides
+users with a diverse collection of inspirational quotes, empowering them with personalized
+features and a visually appealing interface.
+"Quotes" aims to provide an immersive and personalized experience for users seeking inspiration
+and motivation. By incorporating SQLite Database, Animation, API Calling, Local JSON Bank,
+fetching and saving quotes, category-wise organization, light and dark themes, splash screen,
+detailed quote screens, random background images and font families, quote wallpaper creation,
+and setting device wallpapers, the app offers a comprehensive solution for users to discover and
+engage with uplifting quotes that resonate with them.
 
 
 
 
 
+## ScreenShort
 
 <img src="https://github.com/kaushikHadiya1234/quotes/assets/119835333/78b7d69b-34b5-4534-891e-8498eb830d69" height="50%" width="30%">
 <img src="https://github.com/kaushikHadiya1234/quotes/assets/119835333/ae57039f-5d26-4aff-a8e2-25348580439f" height="50%" width="30%">
@@ -35,4 +32,9 @@ https://github.com/kaushikHadiya1234/quotes/assets/119835333/6040602d-91cc-4e54-
 <img src="https://github.com/kaushikHadiya1234/quotes/assets/119835333/2bb38803-bde4-42bf-9190-c426120ac38c" height="50%" width="30%">
 <img src="https://github.com/kaushikHadiya1234/quotes/assets/119835333/85b71c78-a457-4a6c-a7f7-0103616f104c" height="50%" width="30%">
   
+## Video
+
+https://github.com/kaushikHadiya1234/quotes/assets/119835333/6040602d-91cc-4e54-a29a-1d93fd21112c
+
+
 </p>
