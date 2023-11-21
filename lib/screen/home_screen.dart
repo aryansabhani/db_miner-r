@@ -5,9 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/controller/quotes_controller.dart';
-import 'package:untitled/modal/custom_modal.dart';
-import 'package:untitled/utils/db_helper.dart';
+
+import '../controller/quotes_controller.dart';
+import '../modal/custom_modal.dart';
+import '../utils/db_helper.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

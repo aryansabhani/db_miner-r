@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
+import 'package:quotes/screen/add_screen.dart';
+import 'package:quotes/screen/home_screen.dart';
+import 'package:quotes/screen/readQuotes_screen.dart';
+import 'package:quotes/screen/splash_screen.dart';
+import 'package:quotes/screen/tab_screen.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/screen/add_screen.dart';
-import 'package:untitled/screen/home_screen.dart';
-import 'package:untitled/screen/readQuotes_screen.dart';
-import 'package:untitled/screen/splash_screen.dart';
-import 'package:untitled/screen/tab_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

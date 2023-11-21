@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/modal/Quotes_modal.dart';
-import 'package:untitled/utils/db_helper.dart';
 
+import '../modal/Quotes_modal.dart';
+import '../utils/db_helper.dart';
 import 'home_screen.dart';
 
 class AddCategoryScreen extends StatefulWidget {

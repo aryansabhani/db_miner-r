@@ -3,9 +3,10 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/modal/custom_modal.dart';
-import 'package:untitled/screen/home_screen.dart';
-import 'package:untitled/utils/db_helper.dart';
+
+import '../modal/custom_modal.dart';
+import '../utils/db_helper.dart';
+import 'home_screen.dart';
 
 class ReadScreen extends StatefulWidget {
   const ReadScreen({Key? key}) : super(key: key);

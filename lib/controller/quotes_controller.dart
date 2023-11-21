@@ -1,7 +1,8 @@
 import 'dart:typed_data';
 import 'package:get/get.dart';
-import 'package:untitled/modal/custom_modal.dart';
-import 'package:untitled/utils/db_helper.dart';
+
+import '../modal/custom_modal.dart';
+import '../utils/db_helper.dart';
 
 class QuoteController extends GetxController
 {

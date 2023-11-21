@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/screen/add_quotes.dart';
-import 'package:untitled/screen/add_screen.dart';
+
+import 'add_quotes.dart';
+import 'add_screen.dart';
 
 class TabScreen extends StatefulWidget {
   const TabScreen({Key? key}) : super(key: key);

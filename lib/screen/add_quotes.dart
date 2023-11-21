@@ -2,10 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:sizer/sizer.dart';
-import 'package:untitled/modal/Quotes_modal.dart';
-import 'package:untitled/modal/custom_modal.dart';
-import 'package:untitled/screen/home_screen.dart';
-import 'package:untitled/utils/db_helper.dart';
+
+import '../modal/Quotes_modal.dart';
+import '../modal/custom_modal.dart';
+import '../utils/db_helper.dart';
+import 'home_screen.dart';
 
 class AddQuptesScreen extends StatefulWidget {
   const AddQuptesScreen({Key? key}) : super(key: key);

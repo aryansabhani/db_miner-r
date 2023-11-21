@@ -3,7 +3,8 @@ import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:untitled/modal/Quotes_modal.dart';
+
+import '../modal/Quotes_modal.dart';
 
 class DbHelper
 {
